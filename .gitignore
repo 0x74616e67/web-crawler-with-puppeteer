@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# User Configuration
+utils/urls.js
+utils/config.js
+
+# Generated Content
+data/
+screenshots/
+

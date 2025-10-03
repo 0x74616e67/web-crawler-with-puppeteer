@@ -1,0 +1,26 @@
+{
+  "name": "web-crawler-with-puppeteer",
+  "version": "1.0.0",
+  "description": "A powerful and configurable web crawler built with Node.js and Puppeteer for scraping metadata and taking screenshots.",
+  "main": "crawler.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "keywords": [
+    "crawler",
+    "puppeteer",
+    "screenshot",
+    "web-scraper",
+    "metadata"
+  ],
+  "author": "0x74616e67",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x74616e67/web-crawler-with-puppeteer.git"
+  },
+  "dependencies": {
+    "puppeteer": "^24.18.0"
+  }
+}
